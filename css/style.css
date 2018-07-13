@@ -7,11 +7,11 @@ html, body {
 }
 
 body {
-  background-color:grey;
+  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 200%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 150%;
 }
 
 .wrapper {
@@ -22,12 +22,12 @@ body {
 
 #content {
   padding: 20px;
-  background: linear-gradient(red, yello);
+  background:rgba(121, 118, 150, 0.616);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: black;
+  font-family: 'Raleway', sans-serif;;
+  color:red;
 }
 
 h1 {
